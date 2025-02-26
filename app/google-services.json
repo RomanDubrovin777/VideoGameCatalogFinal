@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416594524362",
+    "project_id": "videogamescatalog-12b9e",
+    "storage_bucket": "videogamescatalog-12b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416594524362:android:a4730b16900b719f2e5c33",
+        "android_client_info": {
+          "package_name": "com.example.videogamescatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzX3Qq5agmf3IIve_V7i6bhKhllCuizlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
