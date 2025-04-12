@@ -63,13 +63,13 @@ SCREENSHOTS
 
    Users can enter or edit their email and phone number, and upload a profile picture.
 
-5. Game List / Catalog:
+4. Game List / Catalog:
 
 <img src="https://github.com/user-attachments/assets/11d69175-8991-458b-bb61-b99595d9b76b" width="200">
   
   A grid of popular titles, complete with cover images.
 
-4. Game Details:
+5. Game Details:
 
 <img src="https://github.com/user-attachments/assets/e6b12020-9b7a-4573-b548-70646daf920b" width="200">
 
@@ -81,13 +81,13 @@ SCREENSHOTS
 
    Redirects users to the official website or platform-specific store page.
 
-8. Filter by Genre, Date, and Developer:
+7. Filter by Genre, Date, and Developer:
 
 <img src="https://github.com/user-attachments/assets/618775ba-f4ae-4d34-8280-fde981fe12d7" width="200">
 
    Dropdown filters for genre, release date, and developer.
 
-9. Search Results:
+8. Search Results:
     
 <img src="https://github.com/user-attachments/assets/cf75149a-cb77-46b5-babc-7aa72c051632" width="200">
 
